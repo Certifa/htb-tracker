@@ -27,4 +27,4 @@ Vite + React, deployed via GitHub Actions to GitHub Pages.
 
 ## Live
 
-[certifa.github.io/htb-tracker](https://certifa.github.io/htb-tracker)
+[certifa.net/htb-tracker](https://certifa.net/htb-tracker)
